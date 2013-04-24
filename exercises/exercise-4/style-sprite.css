@@ -1,0 +1,66 @@
+﻿#sprite-container {
+    width: 900px;
+    padding: 20px 0;
+    background-color: #c4c4c4;
+}
+
+#sprite-container h3 {
+    padding-left: 30px;
+}
+
+    #sprite-container ul {
+        list-style-type: none;
+        text-align: center;
+    }
+
+        #sprite-container ul li {
+            background-color: #fff;
+            border-radius: 5px;
+            display: inline-block;
+            width: 180px;
+            padding: 5px;
+            margin: 5px;
+        }
+
+            #sprite-container ul li span {
+                display: inline-block;
+                margin-right: 5px;
+                width: 16px;
+                height: 16px;
+                background: url(../../common/icons/icons-sprite.png) 0 0 no-repeat;
+            }
+
+.comment { background-position: 0 0 !important; } 
+.comment_add{ background-position: -36px 0 !important; } 
+.comment_delete{ background-position: -72px 0 !important;  } 
+.comment_edit{ background-position: -108px 0 !important; } 
+.comments{ background-position: -144px 0 !important; } 
+.comments_add{ background-position: -180px 0 !important; } 
+.comments_delete{ background-position: -216px 0 !important; } 
+.folder{ background-position: -252px 0 !important; } 
+.folder_add{ background-position: -288px 0 !important; } 
+.folder_delete{ background-position: -324px 0 !important; } 
+.folder_edit{ background-position: -360px 0 !important; } 
+.group{ background-position: -396px 0 !important; } 
+.group_add{ background-position: -432px 0 !important; } 
+.group_delete{ background-position: -468px 0 !important; } 
+.group_edit{ background-position: -504px 0 !important; } 
+.page_white{ background-position: -540px 0 !important; } 
+.page_white_acrobat{ background-position: -576px 0 !important; } 
+.page_white_actionscript{ background-position: -612px 0 !important; } 
+.page_white_add{ background-position: -648px 0 !important; } 
+.page_white_c{ background-position: -684px 0 !important; } 
+.page_white_camera{ background-position: -720px 0 !important; } 
+.page_white_cplusplus{ background-position: -756px 0 !important; } 
+.page_white_csharp{ background-position: -792px 0 !important; } 
+.page_white_cup{ background-position: -828px 0 !important; } 
+.page_white_delete{ background-position: -864px 0 !important; } 
+.page_white_edit{ background-position: -900px 0 !important; } 
+.page_white_excel{ background-position: -936px 0 !important; } 
+.page_white_php{ background-position: -972px 0 !important; } 
+.page_white_powerpoint{ background-position: -1008px 0 !important; } 
+.page_white_ruby{ background-position: -1044px 0 !important; } 
+.user{ background-position: -1080px 0 !important; } 
+.user_add{ background-position: -1116px 0 !important; } 
+.user_delete{ background-position: -1152px 0 !important; } 
+.user_edit{ background-position: -1188px 0 !important; } 
